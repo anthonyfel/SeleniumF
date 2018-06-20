@@ -51,6 +51,6 @@ public class Salesforce {
 			}
 		}	
 		
-		//driver.close();
+		driver.close();
 		
 	}

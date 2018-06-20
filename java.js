@@ -12,7 +12,7 @@ public class Salesforce {
  
 		//selenium code -
 		//Set system property to Chrome webdriver
-		System.setProperty("webdriver.chrome.driver", "/Users/anthonyfel/Documents/Selenium Work/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/anthonyfel/Documents/ Work/chromedriver");
 		//Create Driver Object Class name = X, X driver - new X();
 		WebDriver driver =new ChromeDriver();
 		
